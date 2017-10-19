@@ -1,0 +1,41 @@
+@font-face{
+    font-family: "hind-bold";
+    src: url("../font/hind/hind-bold.otf");
+}
+@font-face{
+    font-family: "hind-semibold";
+    src: url("../font/hind/hind-semibold.otf");
+}
+@font-face{
+    font-family: "hind-light";
+    src: url("../font/hind/hind-light.otf");
+}
+@font-face{
+    font-family: "hind-medium";
+    src: url("../font/hind/hind-medium.otf");
+}
+@font-face{
+    font-family: "hind-regular";
+    src: url("../font/hind/hind-regular.otf");
+}
+@font-face{
+    font-family: "Montserrat-Bold";
+    src: url("../font/montserrat/Montserrat-Bold.otf");
+}
+
+font-family: 'Hind', sans-serif;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
